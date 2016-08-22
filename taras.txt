@@ -1,2 +1,4 @@
 Hello, Taras!
 This is git!
+
+I hope you will fastly understand what it is...
