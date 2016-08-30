@@ -1,0 +1,47 @@
+/*  TYPOGRAPHY */
+body {
+  font-family: Arial;
+}
+
+.logo {
+  margin-top: 50px;
+  margin-bottom: 30px;
+  color: #AD6929;
+  font-size: 3em;
+}
+
+nav#main_nav > ul > li {
+  display: inline;
+  margin: 10px;
+}
+
+nav#main_nav > ul {
+  padding: 0;
+}
+
+nav#main_nav {
+  margin-bottom: 30px;
+}
+
+nav#main_nav > ul > li > a {
+  text-decoration: none;
+  color: #fff;
+  background-color: #800000;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+nav#main_nav > ul > li > a:hover {
+  background-color: #804000;
+  transition: 0.2s;
+}
+
+main {
+  margin: 50px 0;
+}
+
+footer {
+  margin-top: 30px;
+  text-align: center;
+  font-size: 0.7em;
+}
